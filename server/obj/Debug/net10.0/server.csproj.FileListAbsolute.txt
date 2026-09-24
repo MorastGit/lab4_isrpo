@@ -1,0 +1,14 @@
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/bin/Debug/net10.0/server
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/bin/Debug/net10.0/server.deps.json
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/bin/Debug/net10.0/server.runtimeconfig.json
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/bin/Debug/net10.0/server.dll
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/bin/Debug/net10.0/server.pdb
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/server.AssemblyInfoInputs.cache
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/server.AssemblyInfo.cs
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/server.csproj.CoreCompileInputs.cache
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/server.dll
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/refint/server.dll
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/server.pdb
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/server.genruntimeconfig.cache
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/ref/server.dll
