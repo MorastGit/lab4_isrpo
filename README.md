@@ -96,7 +96,7 @@ $$
 ## Скриншоты
 
 ![web](repo/browser_Kozubenko.png)
-![backend](repo/browser_Kozubenko.png)
+![backend](repo/backend_kozubenko.png)
 ![terminal](repo/erminal_Kozubenko.png)
 ![git](repo/git_kozubenko.png)
 
