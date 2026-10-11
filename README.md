@@ -95,7 +95,10 @@ $$
 
 ## Скриншоты
 
-![screen](repo/index_web.png)
+![web](repo/browser_Kozubenko.png)
+![backend](repo/browser_Kozubenko.png)
+![terminal](repo/erminal_Kozubenko.png)
+![git](repo/git_kozubenko.png)
 
 ## Заключение
 
