@@ -12,3 +12,4 @@
 /Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/server.pdb
 /Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/server.genruntimeconfig.cache
 /Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/ref/server.dll
+/Users/elena/Documents/volgu_proj/isrpo/lab4_isrpo_Kozubenko/server/obj/Debug/net10.0/server.sourcelink.json
